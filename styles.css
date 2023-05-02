@@ -1,0 +1,102 @@
+video{
+    width:50%;
+    height:auto;
+}
+html{
+    font-size: 20px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+#img-div{
+    width:60%;
+    height:auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+ 
+#tribute-info{
+    width:40%;
+}
+
+body{
+    background: linear-gradient(90deg,white 0% 7%, #eee 10% 90%, white 93% 100%);    
+}
+
+#main{
+   
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 1em auto;
+    margin-bottom:2em;
+    gap:20px;
+    align-items: center;
+    
+    
+}
+
+#img-caption{
+    margin-top: 30px;
+    font-size: larger;
+}
+
+
+section ul{
+    padding-left:0;
+    overflow: hidden;
+    font-size: large;
+}
+
+section ul li{
+    margin:20px auto;
+    font-size: large;
+
+}
+
+.simulation-container{
+    display: flex;
+    justify-content: center;
+    border: none;
+}
+
+.callToAction{
+    margin-top: 30px;
+    padding-top: 20px;
+}
+
+
+.bold{
+    font-weight: bold;
+}
+
+#title{
+    margin-top: 1em;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.quote{
+    font-size: larger;
+    margin: 1em auto;
+    padding-top: 10px;
+}
+
+a{
+    text-decoration:none;
+    font-weight: bold;
+}
+
+a:hover, a:active, a:visited{
+    color:black;
+}
+
