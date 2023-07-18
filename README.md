@@ -12,7 +12,7 @@ This project serves as a tribute to the influential physicist, Albert Einstein. 
 
 ## Preview
 
-[Project Banner](https://github.com/RyanLilleyman/TributePage/blob/main/banner.gif) 
+[!Project Banner](https://github.com/RyanLilleyman/TributePage/blob/main/banner.gif) 
 
 
 ## Built With
